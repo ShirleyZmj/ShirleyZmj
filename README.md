@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Mengjia Zhang!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=97A7ED&width=435&lines=Senior+Frontend+Developer;7%2B+years+of++coding+experience;+Learning+is+a+lifelong+journey.)](https://git.io/typing-svg)<br/>
 👩🏻‍💻 Web developer with 7+ years of experience specializing in frontend development<br/>
 👩🏻‍🎓 Bachelor && Academic Master's Degree in Software Engineering at Tianjin University, China<br/>
 🎨 Published [2 conference papers and 1 article](https://www.researchgate.net/profile/Mengjia-Zhang/publications) about Virtual Reality 3D data visualization<br/>
