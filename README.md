@@ -4,7 +4,7 @@
 👩🏻‍🎓 Bachelor && Academic Master's Degree in Software Engineering at Tianjin University, China<br/>
 🎨 Published [2 conference papers and 1 article](https://www.researchgate.net/profile/Mengjia-Zhang/publications) about Virtual Reality 3D data visualization<br/>
 🌷 [Portfolio Website](https://zhangmengjia.vercel.app/)<br/>
-💭 Currently actively applying for new jobs!<br/>
+👉 I’m on my way to becoming a full-stack developer.<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
